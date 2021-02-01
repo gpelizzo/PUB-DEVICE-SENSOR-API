@@ -1,0 +1,11 @@
+{   
+    "logs_path": "/var/log/api.log",
+    "rest_api_port": 8081,
+    "postgre_host": "localhost",
+    "postgre_port": 5432,
+    "postgre_user": "<POSTGRES_USER_NAME>",
+    "postgre_password": "<POSTGRES_USER_PASSWORD>",
+    "postgre_database": "cellar",
+    "verbose_level": 3,
+    "_verbose_level":"0:silent, 1:error, 2:info, 3:debug"
+}
